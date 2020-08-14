@@ -10,6 +10,7 @@ Answer:
 
 Include Graphics or Links to:
 * Gonna setup my backend with users, products, carts, and orders. I'll work on the landing page, and the gallery bc they are easy, then I'll get auth set up so a user can log in, I'll do the product page and populate with my products (we currently have a limited supply of helmets), then I'll do the checkout and payment last.  
+* https://tafuh.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=HEL&view=planning.nodetail&selectedIssue=HEL-7&issueLimit=100
 * ![landing page](landing-page.png "Landing Page")
 * ![gallery](gallery.png "Gallery")
 * ![shop](products.png "Shop")
